@@ -1,7 +1,7 @@
 #include <stdio.h>
 int x[1000000];
 int n,i;
- 
+  
 int main(){
     scanf("%d",&n);
     
