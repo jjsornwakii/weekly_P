@@ -85,7 +85,7 @@ for(z=1;z<=n*n;z++){
             return 0;
         }
 
-
+ 
         printf("YES");
         return 0;
 
