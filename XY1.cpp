@@ -10,4 +10,5 @@ int main(){
     
     printf("x = %d y = %d",x,y);
     return 0;
+    
 }
