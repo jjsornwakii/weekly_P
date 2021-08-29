@@ -11,7 +11,7 @@ int main(){
             scanf(" %d",&num[x][y]);
 
         }
-    }
+    } 
 
     /////// Row  /////////
     for(y=1;y<=n;y++){
