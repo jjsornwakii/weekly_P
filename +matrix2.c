@@ -22,5 +22,5 @@ int main(){
             printf("%d ",num[1][i][j]);
         printf("\n");
     }
-    
+    return 0;
 }
