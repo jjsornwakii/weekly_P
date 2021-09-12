@@ -20,5 +20,5 @@ int main(){
             printf("%d ",num2[i][j]+num1[i][j]);
         printf("\n");
     }
-    
+    return 0;
 }
