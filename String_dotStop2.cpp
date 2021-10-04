@@ -15,7 +15,7 @@ int main() {
 		i++;
 	} while (strcmp(str[i-1].text, "."));
 
-	fp = fopen("data.txt", "a");
+	fp = fopen("data.txt", "w");
 	for (int j = 0; j < i; j++) {
 		fprintf(fp ,"%s\n", str[j].text);
 	}
